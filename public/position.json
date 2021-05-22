@@ -1,0 +1,229 @@
+{
+  "result": [
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7626953,
+      "positionName": "产品经理",
+      "city": "北京",
+      "createTime": "今天 16:50",
+      "salary": "15k-25k",
+      "companyId": 399,
+      "companyLogo": "i/image2/M01/72/F0/CgotOV1L72uAU5gYAAIk4JZlong551.png",
+      "companyName": "冲顶",
+      "companyFullName": "北京臻澄网络科技有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7629191,
+      "positionName": "初级Java开发工程师",
+      "city": "北京",
+      "createTime": "今天 16:50",
+      "salary": "15k-25k",
+      "companyId": 399,
+      "companyLogo": "i/image2/M01/72/F0/CgotOV1L72uAU5gYAAIk4JZlong551.png",
+      "companyName": "冲顶",
+      "companyFullName": "北京臻澄网络科技有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7633611,
+      "positionName": "质检专员",
+      "city": "深圳",
+      "createTime": "今天 16:50",
+      "salary": "5k-7k",
+      "companyId": 195697,
+      "companyLogo": "i/image2/M01/62/16/CgotOVs58LyASbWSAAAN1dGYmGE558.png",
+      "companyName": "华盛通",
+      "companyFullName": "深圳市时代华盛网络科技有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7632780,
+      "positionName": "运维开发工程师",
+      "city": "深圳",
+      "createTime": "今天 16:49",
+      "salary": "15k-20k",
+      "companyId": 155135,
+      "companyLogo": "i/image3/M01/57/55/Cgq2xl3y-2uAF6h7AAA4Dt9sASw547.png",
+      "companyName": "智象科技",
+      "companyFullName": "深圳市智象科技有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7633529,
+      "positionName": "高级用户产品经理",
+      "city": "北京",
+      "createTime": "今天 16:47",
+      "salary": "20k-40k",
+      "companyId": 147,
+      "companyLogo": "i/image2/M01/79/70/CgotOV1aS4qAWK6WAAAM4NTpXws809.png",
+      "companyName": "拉勾网",
+      "companyFullName": "北京拉勾网络技术有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7633229,
+      "positionName": "web前端开发工程师",
+      "city": "深圳",
+      "createTime": "今天 16:41",
+      "salary": "12k-22k",
+      "companyId": 40531,
+      "companyLogo": "i/image/M00/55/2F/Ciqc1F9p23aAWNkhAABTejIaCNM392.jpg",
+      "companyName": "燊森技术",
+      "companyFullName": "深圳市燊森技术服务有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7626982,
+      "positionName": "就业项目运营经理",
+      "city": "北京",
+      "createTime": "今天 16:39",
+      "salary": "20k-30k",
+      "companyId": 5708,
+      "companyLogo": "i/image/M00/3F/D9/CgqCHl8xOreAehQ8AAA9EzELAmQ274.png",
+      "companyName": "正保远程教育集团",
+      "companyFullName": "北京东大正保科技有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7633942,
+      "positionName": "招聘专家",
+      "city": "广州",
+      "createTime": "今天 16:36",
+      "salary": "8k-10k",
+      "companyId": 119057375,
+      "companyLogo": "i/image/M00/0E/C9/CgqCHl7GO-6AYPypAACwcsZPKhw310.jpg",
+      "companyName": "泉后优品",
+      "companyFullName": "泉后优品（广州）科技有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7633273,
+      "positionName": "android逆向工程师",
+      "city": "北京",
+      "createTime": "今天 16:33",
+      "salary": "15k-30k",
+      "companyId": 740,
+      "companyLogo": "i/image/M00/16/E3/CgqCHl7WJT2ABhfiAAGKwMdU53Y680.jpg",
+      "companyName": "时趣social-touch",
+      "companyFullName": "时趣互动（北京）科技有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7632852,
+      "positionName": "资深品牌经理（撰写方向）",
+      "city": "深圳",
+      "createTime": "今天 16:26",
+      "salary": "10k-20k",
+      "companyId": 327386,
+      "companyLogo": "i/image3/M01/03/56/CgoCgV6YBneAc6WxAABSvdsMY70086.jpg",
+      "companyName": "陀螺科技",
+      "companyFullName": "深圳市陀螺传媒有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7632649,
+      "positionName": "媒介经理",
+      "city": "广州",
+      "createTime": "今天 16:19",
+      "salary": "15k-25k",
+      "companyId": 25623,
+      "companyLogo": "i/image2/M01/57/01/CgoB5lsfadaAPR4mAAB6ex4urT8536.jpg",
+      "companyName": "爱范儿",
+      "companyFullName": "广州爱范儿科技股份有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7632700,
+      "positionName": "商务经理",
+      "city": "广州",
+      "createTime": "今天 16:19",
+      "salary": "13k-25k",
+      "companyId": 25623,
+      "companyLogo": "i/image2/M01/57/01/CgoB5lsfadaAPR4mAAB6ex4urT8536.jpg",
+      "companyName": "爱范儿",
+      "companyFullName": "广州爱范儿科技股份有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7634897,
+      "positionName": "解决方案工程师",
+      "city": "成都",
+      "createTime": "今天 16:17",
+      "salary": "10k-15k",
+      "companyId": 297463,
+      "companyLogo": "i/image2/M01/B0/54/CgotOV3nEWuAQkt9AAAzMDO-Oqg235.png",
+      "companyName": "中科慧源",
+      "companyFullName": "成都中科慧源科技有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7635933,
+      "positionName": "电商美工设计师",
+      "city": "深圳",
+      "createTime": "今天 16:15",
+      "salary": "12k-18k",
+      "companyId": 117685458,
+      "companyLogo": "i/image3/M01/67/6C/Cgq2xl5LV7mAOCOpAAB7JbBAeSM441.png",
+      "companyName": "深圳蔓狮科技有限公司",
+      "companyFullName": "深圳蔓狮科技有限公司"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 7626551,
+      "positionName": "ETL工程师（中级）",
+      "city": "苏州",
+      "createTime": "今天 16:07",
+      "salary": "8k-13k",
+      "companyId": 120052,
+      "companyLogo": "i/image/M00/33/6D/Ciqc1F8QEGuAeK-9AAAQ6bycdo0216.jpg",
+      "companyName": "悦锦软件",
+      "companyFullName": "悦锦软件系统（上海）有限公司"
+    }
+  ]
+}

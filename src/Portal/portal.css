@@ -1,0 +1,18 @@
+div.portal {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+div.portal .modal {
+  position: absolute;
+  width: 200px;
+  height: 160px;
+  background-color: white;
+  z-index: 99;
+  left: calc(50% - 100px);
+  top: calc(50% - 80px);
+}
